@@ -1,0 +1,19 @@
+{
+    "database":{
+        "host":"153.92.15.31",
+        "port":3306,
+        "user":"u875409848_canque",
+        "password":"2qW^sUg=M",
+        "database":"u875409848_canque"
+    },
+    "secret":"hanzelcute",
+    "emailFrom":"no-reply@mail.octanity.net",
+    "smtpOptions":{
+        "host":"smtp.resend.com",
+        "port":465,
+        "auth":{
+            "user":"resend",
+            "pass":"re_9uQHa3Qf_Ho7yXv7fPHtk2rXf5ShMYhmi"
+        }
+    }
+}
