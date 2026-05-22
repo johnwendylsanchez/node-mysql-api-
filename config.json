@@ -9,11 +9,11 @@
     "secret":"hanzelcute",
     "emailFrom":"no-reply@mail.octanity.net",
     "smtpOptions":{
-        "host":"smtp.resend.com",
-        "port":465,
+        "host":"sandbox.smtp.mailtrap.io",
+        "port":2525,
         "auth":{
-            "user":"resend",
-            "pass":"re_9uQHa3Qf_Ho7yXv7fPHtk2rXf5ShMYhmi"
+            "user":"83b10500e22cc4",
+            "pass":"3c88c18cd31470"
         }
     }
 }
